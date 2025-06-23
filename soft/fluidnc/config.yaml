@@ -49,7 +49,7 @@ axes:
         toff_coolstep: 3
         run_mode: StealthChop
         homing_mode: StealthChop
-        use_enable: false
+        use_enable: true
         direction_pin: gpio.14
         step_pin: gpio.12
         disable_pin: NO_PIN
